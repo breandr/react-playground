@@ -45,4 +45,4 @@ const routes = [{
 
 ReactDOM.render(<Provider store={store}>
     <Router routes={routes} />
-  </Provider>, document.getElementById('app'));
+  </Provider>, document.getElementById('appContainer'));

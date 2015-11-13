@@ -1,2 +1,4 @@
 node_modules
 dist/bundle.js
+stats.json
+build
